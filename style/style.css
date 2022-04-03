@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 24px 0 25px;
+  color: #777777;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+.container{
+  max-width: 918px;
+  margin: auto;
+  padding: 0 20px;
+}
